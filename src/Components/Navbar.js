@@ -52,18 +52,18 @@ const Navbar = () => {
       <li class="flex flex-row content-center justify-center">
       <img src="https://cdn-icons-png.flaticon.com/128/7840/7840650.png?ga=GA1.1.1515422519.1694859542" class="h-6 w-6 mr-2" alt="hotel Logo" />
     
-        <a href="#" class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Hotels</a>
+        <a href="#hotels" class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Hotels</a>
       </li>
       <li class="flex flex-row content-center justify-center">
         <img src="https://cdn-icons-png.flaticon.com/128/1315/1315047.png?ga=GA1.1.1515422519.1694859542" class="h-6 w-6 mr-2" alt="hotel Logo" />
-        <a href="#" class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Cabs</a>
+        <a href="#cabs" class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Cabs</a>
       </li>
       <li class="flex flex-row content-center justify-center">
       <img src="https://cdn-icons-png.flaticon.com/128/2200/2200326.png?ga=GA1.1.1515422519.1694859542" class="h-6 w-6 mr-2" alt="Flight Logo" />
-      <a href="#" class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Flights</a>
+      <a href="#flights" class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Flights</a>
       </li>
       <li class="flex flex-row content-center justify-center">
-      <img src="https://cdn-icons-png.flaticon.com/128/713/713309.png?ga=GA1.1.1515422519.1694859542" class="h-6 w-6 mr-2" alt="train Logo" />
+        <img src="https://cdn-icons-png.flaticon.com/128/713/713309.png?ga=GA1.1.1515422519.1694859542" class="h-6 w-6 mr-2" alt="train Logo" />
         <a href="#trains" class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Trains</a>
       </li>
     </ul>
